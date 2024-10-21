@@ -1,18 +1,3 @@
-# EX-7-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
-## Date :
-## Aim:
-  To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
-
-## ALGORITHM: 
-  1. AES is based on a design principle known as a substitution–permutation. 
-  2. AES does not use a Feistel network like DES, it uses variant of Rijndael. 
-  3. It has a fixed block size of 128 bits, and a key size of 128, 192, or 256 bits. 
-  4. AES operates on a 4 × 4 column-major order array of bytes, termed the state
-## Name: Kishor kumar B
-## Reg.No : 212223240072
-
-## PROGRAM:
-```c
 #include <stdio.h>
 #include <string.h>
 
@@ -79,9 +64,3 @@ int main() {
 
 
 
-
-``` 
-## OUTPUT:
-![alt text](<Screenshot 2024-10-21 083600.png>)
-## RESULT: 
-Hence, for the given input text and key the DES algorithm is successfully simulated.
